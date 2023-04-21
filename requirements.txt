@@ -121,7 +121,7 @@ simplejson==3.16.0
 sip==4.19.21
 six==1.14.0
 soupsieve==1.9.2
-sqlparse==0.3.1
+sqlparse==0.4.4
 system-service==0.3
 systemd-python==234
 terminado==0.8.3
